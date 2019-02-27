@@ -24,4 +24,4 @@
 
 #### English level
 > Elementary
-> Idependent study of English
+> Idependent study of English 
