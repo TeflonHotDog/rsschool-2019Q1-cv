@@ -1,0 +1,17 @@
+body{
+    max-width: 1024px;
+    background-color: azure;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+}
+div{
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    align-content: center;
+}
+img{
+    width: 182px;
+    height: 209px;
+}
